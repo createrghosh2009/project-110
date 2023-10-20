@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/rgagar0A9/
